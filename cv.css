@@ -1,15 +1,13 @@
 .header {
-    
-}
-
-.full-name {
-
+    background-color: #597b6a;
+    padding: 70px;
 }
 
 .first-name {
-
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .last-name {
-
+    font-size: 26px;
 }
