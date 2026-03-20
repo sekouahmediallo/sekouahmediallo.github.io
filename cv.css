@@ -19,6 +19,7 @@
 .email,
 .phone {
     font-size: 16px;
+    margin-top: 5px;
 }
 
 .hr-header {
