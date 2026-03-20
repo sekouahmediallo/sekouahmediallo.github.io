@@ -1,13 +1,26 @@
+.body {
+    font : 'Goudy Old Style';
+}
+
 .header {
     background-color: #597b6a;
     padding: 70px;
 }
 
 .first-name {
-    font-size: 30px;
+    font-size: 45px;
     font-weight: bold;
 }
 
 .last-name {
-    font-size: 26px;
+    font-size: 35px;
+}
+
+.email,
+.phone {
+    font-size: 16px;
+}
+
+.hr-header {
+    
 }
