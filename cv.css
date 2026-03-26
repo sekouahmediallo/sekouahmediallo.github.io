@@ -4,16 +4,9 @@
 
 .container {
     max-width: fit-content;
-    display : grid;
+    display : flex;
+    flex-direction: row;
 } 
-
-.colonne1 {
-    flex: 1;
-}
-
-.colonne2 {
-    flex-basis: 35%;
-}
 
 .header {
     background-color: #597b6a;
