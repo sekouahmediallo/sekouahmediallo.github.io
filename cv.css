@@ -3,8 +3,8 @@
 }
 
 .container {
-    max-width: fit-content;
-    display : flex;
+    max-width: 100% ;
+    display : grid;
 } 
 
 .colonne1 {
