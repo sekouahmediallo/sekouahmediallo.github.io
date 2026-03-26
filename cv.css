@@ -52,7 +52,7 @@
     font-size: 13px;
 }
 
-.liste-taches ul{
+.taches li {
+    font-size: 13px;
     color: #595454;
-    font-size: 13;
 }
