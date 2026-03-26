@@ -1,10 +1,15 @@
 .body {
-    font : 'Goudy Old Style';
+    font-family : "Goudy Old Style", serif;
 }
+
+.container {
+    max-width: fit-content;
+} 
 
 .header {
     background-color: #597b6a;
     padding: 70px;
+    margin-bottom: 50px;
 }
 
 .first-name {
@@ -22,16 +27,16 @@
     margin-top: 5px;
 }
 
-.hr-header {
-
-}
-
 .section_title {
     color: #597b6a;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .titre {
     color: #595454;
 }
 
+.section-left {
+    background-color: gray;
+    opacity: 0.6;
+}
