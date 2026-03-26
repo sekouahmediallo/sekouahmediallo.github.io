@@ -4,7 +4,16 @@
 
 .container {
     max-width: fit-content;
+    display : flex;
 } 
+
+.colonne1 {
+    flex: 1;
+}
+
+.colonne2 {
+    flex-basis: 35%;
+}
 
 .header {
     background-color: #597b6a;
@@ -29,7 +38,7 @@
 
 .section_title {
     color: #597b6a;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .titre {
