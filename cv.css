@@ -4,7 +4,8 @@
 
 .container {
     max-width: fit-content;
-    display : flex;    
+    display : flex;
+    margin: 100px; 
 } 
 
 .colonne1 {
@@ -47,7 +48,7 @@
 .ligne {
     margin-top: 20%;
     margin-bottom: 20%;
-    margin-right: 75%;
+    margin-right: 20%;
 }
 
 .titre {
