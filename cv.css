@@ -10,6 +10,7 @@
     padding-top: 80px;
     padding-bottom: 50px;
     color: white;
+    margin: 0 20% 0 20%;
 }
 
 .full-name {
@@ -26,6 +27,7 @@
 .layout {
     display : flex;
     gap: 40px;
+    margin: 0 20% 0 20%;
 } 
 
 .colonne1 {
@@ -36,7 +38,7 @@
 .colonne2 {
     width: 55%;
     text-align: left;
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 .section_title {
