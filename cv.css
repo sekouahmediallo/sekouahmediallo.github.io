@@ -14,12 +14,15 @@
 
 .full-name {
     font-size: 36px;
+    padding-left: 50px;
 }
 
 .email,
 .phone {
     font-size: 18px;
     margin-top: 10px;
+    padding-left: 50px;
+
 }
 
 .layout {
@@ -43,6 +46,7 @@
     font-weight: bold;
     margin-top: 25px;
     margin-bottom: 10px;
+    padding-left: 50px;
 }
 
 .titre {
@@ -50,19 +54,21 @@
     font-size: 16px;
     font-weight: bold;
     margin-top: 15px;
+    padding-left: 50px;
 }
 
 .lieu-date {
     color: #595454;
     font-size: 15px;
     margin-bottom: 5px;
+    padding-left: 50px;
 }
 
 ul {
     font-size: 15px;
     color: #595454;
     margin-top: 5px;
-    padding-left: 20px;
+    padding-left: 70px;
 }
 
 .ligne {
@@ -74,4 +80,10 @@ ul {
 #sommaire {
     font-size: 15px;
     color: #595454;
+}
+
+.savoir-faire li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
