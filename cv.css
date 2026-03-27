@@ -5,7 +5,7 @@
 .container {
     max-width: fit-content;
     display : flex;
-    margin: 100px; 
+    margin: 100%; 
 } 
 
 .colonne1 {
@@ -17,6 +17,11 @@
     text-align: left;
 }
 
+.header {
+    background-color: #597b6a;
+    padding: 70px;
+    margin-bottom: 25px;
+}
 
 .first-name {
     font-size: 45px;
