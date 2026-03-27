@@ -3,10 +3,8 @@
 }
 
 .container {
-    max-width: 100%;
-    display : grid;
-    flex-direction: row;
-    
+    max-width: fit-content;
+    display : flex;    
 } 
 
 .colonne1 {
@@ -46,8 +44,8 @@
 }
 
 .ligne {
-    margin-top: 10.5em;
-    margin-bottom: 10.5em;
+    margin-top: 6.5em;
+    margin-bottom: 6.5em;
     margin-right: 45%;
 }
 
