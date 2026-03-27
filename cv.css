@@ -3,10 +3,19 @@
 }
 
 .container {
-    max-width: fit-content;
-    display : flex;
+    max-width: 100%;
+    display : grid;
     flex-direction: row;
+    
 } 
+
+.colonne1 {
+    flex: 1;
+}
+
+.colonne2 {
+    flex-basis: 35%;
+}
 
 .header {
     background-color: #597b6a;
