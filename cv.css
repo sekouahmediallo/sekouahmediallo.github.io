@@ -22,12 +22,6 @@
     padding-left: 50px;
 }
 
-.contact-info {
-    font-size: 18px;
-    margin-top: 10px;
-    padding-left: 50px;
-}
-
 .layout {
     display : flex;
     gap: 40px;
