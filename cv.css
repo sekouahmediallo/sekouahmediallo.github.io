@@ -33,6 +33,7 @@
 
 .colonne2 {
     width: 35%;
+    text-align: left;
 }
 
 .section_title {
@@ -57,7 +58,7 @@
 }
 
 ul {
-    font-size: 13px;
+    font-size: 15px;
     color: #595454;
     margin-top: 5px;
     padding-left: 20px;
@@ -70,16 +71,6 @@ ul {
 }
 
 #sommaire {
-    font-size: 13px;
-    color: #595454;
-}
-
-.savoir-faire li {
-    font-size: 13px;
-    color: #595454;
-}
-
-.certifications li {
-    font-size: 13px;
+    font-size: 15px;
     color: #595454;
 }
