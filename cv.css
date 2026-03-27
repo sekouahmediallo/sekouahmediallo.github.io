@@ -9,15 +9,11 @@
     background-color: #597b6a;
     text-align: left;
     margin-bottom: 30px;
+    padding: 50%;
 }
 
-.first-name {
+.full-name {
     font-size: 45px;
-    font-weight: bold;
-}
-
-.last-name {
-    font-size: 35px;
 }
 
 .email,
