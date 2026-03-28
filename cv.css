@@ -93,7 +93,11 @@ ul {
     width: 80%;
 }
 
-#sommaire, 
+#sommaire {
+    font-size: 15px;
+    color: #595454;
+}
+
 #savoir-faire {
     font-size: 15px;
     color: #595454;
