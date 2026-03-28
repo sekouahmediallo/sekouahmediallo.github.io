@@ -30,11 +30,13 @@ body {
 .colonne1 {
     width: 65%;
     background-color: #edeced;
+    padding-right: 40px;
 }
 
 .colonne2 {
     width: 35%;
     background-color: white;
+    padding-right: 40px;
 }
 
 .inner {
