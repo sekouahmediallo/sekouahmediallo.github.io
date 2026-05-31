@@ -24,7 +24,7 @@ body {
 .layout {
     display : flex;
     gap: 40px;
-    margin: 0 20% 0 20%;
+    margin: 0 20% 10% 20%;
 } 
 
 .colonne1 {
